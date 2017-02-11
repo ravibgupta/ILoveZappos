@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_db979cf2f45a3ff79cc06395fc2bfd0a2142bb32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_1c8a43328eee6293099d7809caca369b212fc4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_533f6245d7a8e32c2ca2482d49442e3cc78edda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b2398e094f39938e3da5e5b2167d409a02132514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/okio-1.8.0_af0d85a5f9419bd3690207fa82fd00fbba0777cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/uk.co.samuelwall/material-tap-target-prompt/1.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af1d673556bf23bcdfe5a620c58363c7de2ce67e">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/uk.co.samuelwall-material-tap-target-prompt-1.7.0_6a012bde18015f9f8f759ec0b1ca88c3271b1f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_db84400dd6bc9e3c5ca3a2b2f294bf77a3f6c57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ee851528fd40960cf7f324d3cbf4bc6d5e31e9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_59705631bb4871b57a69ad60aca79bed2dd16197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_93e8800584e4853eda5a1a4830170fe1a8fb4e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_3b9dbe3c55e004ea1b2c37c571d8e5a7a3da967c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_7d7b57dce496736c2ae0ff6ab51b70e5ce8e92ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_a654f33fad9cc3840570bccde746bad9e87a581d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_0c895b1c056649eafe5a0d6daacfb728a7dc6bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f6b9b78e5cb436def2aed58651f54c52c594e9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_85420ccfc473c062b8c0052e92a4f73d0bf7dbae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_22122965d7dda2259b316b3a0a9b39d1c40ecaeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_5e3aa85b72f2c3b58348fe5ccd3101622a14150b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_563ca0f40acff38f540446dbd8a0cf400b8fd943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_ab07d9ea8fd7bca0489b8e9909673ef961f982d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_38c9c278e290f75caed25bbeea0130271e12a081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_10b8fc08b280b537d732f64c6edae7048179c953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_e6b9a95caf02c95ab6eb23197c8d7157f5a224a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_6515ed311121d6faf45f64a3ab6d0a5f34d3c8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_8ad9bcb3f7bc503fcbdc411d1d66c8a9fb10cd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_7c01c6f06a8fe3b7ad0cc923e1f17376a822b9a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_b844687042af2cccf0f94a2bdb03eb261b7b5f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3eefa8e28b99bcca889b6518d0d23bcbad2f80a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/gson-2.7_e4e2edb8d3d845ca2eabce9586c69c01c81f4f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_a595bcaec9338d7d40ad62ef9acfa0fd4d5f84d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_12bd823c09e29256d49b327c4501ec2a6ccbc83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.github.arimorty/floatingsearchview/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.github.arimorty-floatingsearchview-2.0.3_11659df0b8d76af8856797c53f62f7fbbefbb8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_f5b5b5c6fc29addb79974916a4485f453868984b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.bartoszlipinski/viewpropertyobjectanimator/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_816aedaf42a14bced3cc75d174f505d5062d90f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_26cada403a7659379c7477331e5f7d1a3fdf66fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_c7f93f934d24153c4e4489cdf82895aed9bba5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_1befe0cdb59152aebee0c85797a4d60ab003103d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/glide-3.7.0_4a892c4be33582f090d7797b8f3499da5ff1ca48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/NRUPESH/Files/Android-Projects/ILoveZappos2/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.4_dbfcd14cd8a229c74c45fa6aaf6dd056a1e6cfdc.jar" />
+    </item>
+
+</items>
